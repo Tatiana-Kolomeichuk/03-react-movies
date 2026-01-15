@@ -1,4 +1,4 @@
-import styles from './App.module.css';
+import './App.module.css';
 import toast, { Toaster } from 'react-hot-toast';
 import fetchMovies from '../../services/movieService';
 import type { Movie } from '../../types/movie';
